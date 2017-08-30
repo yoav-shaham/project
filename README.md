@@ -1,2 +1,4 @@
-# project
+# Project
 Not Sure yet
+#Goals
+
